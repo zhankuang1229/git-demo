@@ -12,5 +12,5 @@ hello git! hello zhank!
 hello git! hello zhank!
 hello git! hello zhank!
 hello git! hello zhank!
-hello git! hello zhank!
+hello git! hello zhank! master test
 hello git! hello zhank!
